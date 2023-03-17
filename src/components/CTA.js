@@ -6,7 +6,7 @@ import one from "../images/Image-1.png"
 function CTA() {
   return (
     <>
-        <section className='lg:max-w-6xl mx-4 lg:mx-auto border border-purple-300 shadow-2xl rounded-3xl my-20 ring-offset-transparent'>
+        <section className='lg:max-w-6xl mx-4 lg:mx-auto border border-purple-300 shadow-2xl rounded-3xl my-32 ring-offset-transparent'>
             <div className='flex items-center justify-center'>
                 <img src={image} alt="" className='w-8 md:w-60 lg:96 invisible md:visible' />
                 <div className=''>

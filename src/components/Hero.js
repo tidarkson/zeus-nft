@@ -23,8 +23,8 @@ function Hero() {
 
                 <div className='flex flex-col text-center items-center gap-5 mt-10'>
                     <h1 className='text-2xl font-semibold md:text-6xl md:font-bold tracking-wide w-3/4'>Create & sell <br></br>your NFTs today 🚀 </h1>
-                    <p className='text-xs md:text-base'>Velit, odio bibendum eu, viverra sit laoreet posuere. Ut scelerisque posuere massa amet. Ornare <br></br>lacinia vitae at vestibulum morbi. Volutpat libero curabitur feugiat risus dui pulvinar. Elementum.</p>
-                    <button className='button py-2 px-4 rounded-lg text-white shadow-lg hover:opacity-75 font-bold'>Let's sell</button>
+                    <p className='text-sm md:text-base'>Velit, odio bibendum eu, viverra sit laoreet posuere. Ut scelerisque posuere massa amet. Ornare <br></br>lacinia vitae at vestibulum morbi. Volutpat libero curabitur feugiat risus dui pulvinar. Elementum.</p>
+                    <button className='button py-2 px-4 rounded-lg text-white shadow-lg hover:opacity-75 font-bold mb-4'>Let's sell</button>
                 </div>
 
                 <div className='grid grid-cols gap-12 -mr-8'>

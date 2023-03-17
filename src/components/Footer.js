@@ -27,7 +27,7 @@ function Footer() {
                 </ul>
             </div>
         </footer>
-        <p className='text-center text-xs'>Crafted by Tee Ai Darkson 🔥 </p>
+        <p className='text-center text-xs my-3'>Crafted by Tee Ai Darkson 🔥 </p>
     </>
   )
 }

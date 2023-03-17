@@ -16,7 +16,7 @@ function Team() {
                 </div>
 
 
-                <div className='grid grid-cols-2 md:flex md:gap-12 items-center justify-center my-10 w-full lg:gap-x-40'>
+                <div className='grid grid-cols-2 gap-4 md:flex md:gap-12 items-center justify-center my-10 w-full lg:gap-x-40'>
                     <div className='flex flex-col items-center justify-center'>
                         <img src={team} alt="" />
                         <h3 className='my-3 font-bold'>Guy Hawkins</h3>
