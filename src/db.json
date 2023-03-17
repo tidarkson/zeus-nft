@@ -1,0 +1,58 @@
+{
+    "feature": [
+        {
+            "id": 1,
+            "name": "Moonbirds",
+            "desc": "Faucibus odio elementum nulla venenatis, libero. Ullamcorper duis fringilla pulvinar nibh diam sit.",
+            "image": "./images/Features/Image.png"
+        },
+        {
+            "id": 2,
+            "name": "Clone X - X Takashi Murakami",
+            "desc": "Magna in condimentum praesent pretium vitae mattis facilisis nunc. Lectus in ac ac.",
+            "image": "./images/Features/Image-1.png"
+        }, 
+        {
+            "id": 3,
+            "name": "Mutant Ape Yacht Club",
+            "desc": "Sit aenean porttitor sit lectus. Adipiscing egestas etiam eget cursus nulla risus euismod. Netus.",
+            "image": "./images/Features/Image-2.png"
+        }, 
+        {
+            "id": 4,
+            "name": "'MOAR' by Joan Cornella",
+            "desc": "Faucibus odio elementum nulla venenatis, libero. Ullamcorper duis fringilla pulvinar nibh diam sit.",
+            "image": "./images/Features/Image-3.png"
+        }, 
+        {
+            "id": 5,
+            "name": "Doodles",
+            "desc": "Magna in condimentum praesent pretium vitae mattis facilisis nunc. Lectus in ac ac.",
+            "image": "./images/Features/Image-4.png"
+        }, 
+        {
+            "id": 6,
+            "name": "KIWAMI Genesis",
+            "desc": "Sit aenean porttitor sit lectus. Adipiscing egestas etiam eget cursus nulla risus euismod. Netus.",
+            "image": "./images/Features/Image-5.png"
+        }, 
+        {
+            "id": 7,
+            "name": "Arcade Land",
+            "desc": "Sit aenean porttitor sit lectus. Adipiscing egestas etiam eget cursus nulla risus euismod. Netus.",
+            "image": "./images/Features/Image-6.png"
+        }, 
+        {
+            "id": 8,
+            "name": "Goons of Balatroon",
+            "desc": "Magna in condimentum praesent pretium vitae mattis facilisis nunc. Lectus in ac ac.",
+            "image": "./images/Features/Image-7.png"
+        }, 
+        {
+            "id": 9,
+            "name": "Meta Toy DragonZ",
+            "desc": "Sit aenean porttitor sit lectus. Adipiscing egestas etiam eget cursus nulla risus euismod. Netus.",
+            "image": "./images/Features/Image-8.png"
+        }
+    ]
+}
